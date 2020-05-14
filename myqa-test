@@ -1,29 +1,3 @@
-{
-    "errores": {
-        "error1": {
-            "accion": "warning",
-            "codQa": "1210",
-            "desError": "Informacion irrelevante",
-            "numQa": "-15",
-            "palabraBuscar": "hola"
-        },
-        "error2": {
-            "accion1": "warning",
-            "accion2": "critical",
-            "numQa1": "-12",
-            "numQa2": "-20",
-            "qacode1": "1210",
-            "qacode2": "1300",
-            "titulo1": "Email",
-            "titulo2": "Email Apply"
-        },
-        "error3": {
-            "desErrorSalary": "Salario",
-            "accionSalary": "warning",
-            "numQaSalary": "-5",
-            "qacodeSalary": "1400",
-        }
-    },
   {
     "errores": {
         "error1": {
