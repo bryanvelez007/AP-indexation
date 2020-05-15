@@ -1,33 +1,33 @@
   {
       "errores": {
           "error1": {
-              "accion": "warning",
-              "codQa": "1210",
-              "desError": "Informacion irrelevante",
-              "numQa": "-15",
-              "palabraBuscar": "hola"
+              "accion": "Eliminar",
+              "codQa": "1211",
+              "desError": "Informacion Irrelevante",
+              "numQa": "-20",
+              "palabraBuscar": "<script"
           },
           "error2": {
-              "accion1": "warning",
-              "accion2": "critical",
-              "numQa1": "-12",
-              "numQa2": "-20",
+              "accion1": "Eliminar",
+              "accion2": "Extraer",
+              "numQa1": "-20",
+              "numQa2": "*0",
               "qacode1": "1210",
-              "qacode2": "1300",
+              "qacode2": "1204",
               "titulo1": "Email",
               "titulo2": "Email Apply"
           },
           "error3": {
               "desErrorSalary": "Salario",
-              "accionSalary": "warning",
-              "numQaSalary": "-5",
-              "qacodeSalary": "1400"
+              "accionSalary": "Extraer",
+              "numQaSalary": "-20",
+              "qacodeSalary": "1205"
           },
           "error4": {
-              "accionType": "warning",
-              "codQaType": "1210",
+              "accionType": "Extraer",
+              "codQaType": "1205",
               "desErrorType": "Se encontro Jobtype",
-              "numQaType": "-15",
+              "numQaType": "-20",
               "titleType1": "full time",
               "titleType2": "part time",
               "titleType3": "cda",
@@ -39,18 +39,18 @@
               "titleType9": "Poste à temps plein"
           },
           "error5": {
-              "accionTel": "warning",
+              "accionTel": "Eliminar",
               "qacodeTel": "1210",
-              "numQaTel": "-15",
+              "numQaTel": "-20",
               "tituloTel": "Telefono"
             
           },
           
              "error6": {
-              "accion": "warning",
+              "accion": "Eliminar",
               "codQa": "1210",
               "desError": "Pagina web",
-              "numQa": "-15",
+              "numQa": "-20",
               "palabraBuscar": "www."
           }
       },
